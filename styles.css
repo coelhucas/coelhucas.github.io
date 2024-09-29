@@ -11,6 +11,7 @@ body {
     margin: 0 auto;
     padding-top: 2rem;
     min-height: 100vh;
+    padding: 1rem;
 }
 
 li {
@@ -45,7 +46,9 @@ footer {
 
 .heading {
     display: flex;
+    width: 100%;
     justify-content: space-between;
+    align-items: flex-end;
 }
 
 .torecower-embeds {
@@ -56,4 +59,6 @@ footer {
 
 .image {
     image-rendering: pixelated;
+    width: 80px;
+    height: 80px;
 }
