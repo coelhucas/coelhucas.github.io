@@ -1,0 +1,1 @@
+This is my personal website focused on my game development endeavours. My "professional" page can be found at [this repo](https://github.com/coelhucas/lucascoelho.dev) or [lucascoelho.dev](https://lucascoelho.dev)
