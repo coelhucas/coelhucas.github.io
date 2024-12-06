@@ -18,7 +18,7 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: github-pages
-          path: dist/
+          path: ./dist
 
     # <Not provided for brevity>
     # At a minimum this job should upload artifacts using actions/upload-pages-artifact
