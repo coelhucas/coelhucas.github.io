@@ -15,7 +15,8 @@ jobs:
         run: yarn install
       - name: Build
         run: node src/index.js
-      - uses: actions/upload-artifact@v4
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./dist
