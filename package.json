@@ -1,0 +1,8 @@
+{
+  "name": "lucascoelho.com",
+  "type": "module",
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "marked": "^14.1.4"
+  }
+}
