@@ -17,7 +17,7 @@ jobs:
         run: node src/index.js
       - uses: actions/upload-artifact@v4
         with:
-          name: page
+          name: github-pages
           path: dist/
 
     # <Not provided for brevity>
