@@ -35,7 +35,7 @@ const postTemplate = `
     <main>
     <nav>
         <a href="/index.html">/home</a>
-        <a href="./blog.html">/blog</a>
+        <a href="/blog.html">/blog</a>
     </nav>
     <sub class="date">{{date}}</sub>
       {{markdown}}
